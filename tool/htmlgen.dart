@@ -206,19 +206,28 @@ void main(List<String> args) {
         // We have a src without a scheme (such as 'https://') so we should
         // find the image and copy it over.
         final fullPath = path.join(imagesDirectoryPath, src);
-        final data = File(fullPath).readAsBytesSync();
-        final imageContents = ImageContents(src, data);
-        images.add(imageContents);
+        final imageFile = File(fullPath);
+        
+        if (imageFile.existsSync()) {
+          final data = imageFile.readAsBytesSync();
+          final imageContents = ImageContents(src, data);
+          images.add(imageContents);
 
-        // Rewrite the src path in the element.
-        final newSrcPath = imageContents.getCopiedSrcPath(
-          outputImagesSubdirectoryPath: outputImagesSubdirectoryPath,
-        );
-        image.attributes['src'] = newSrcPath;
+          // Rewrite the src path in the element.
+          final newSrcPath = imageContents.getCopiedSrcPath(
+            outputImagesSubdirectoryPath: outputImagesSubdirectoryPath,
+          );
+          image.attributes['src'] = newSrcPath;
 
-        // Copy the file.
-        final newPath = path.join(outputDirectoryPath, newSrcPath);
-        File(newPath).writeAsBytesSync(imageContents.data);
+          // Copy the file.
+          final newPath = path.join(outputDirectoryPath, newSrcPath);
+          File(newPath).writeAsBytesSync(imageContents.data);
+        } else {
+          // Image file doesn't exist, keep the original src but add a warning
+          print('Warning: Image file not found: $fullPath');
+          // Optionally, you could set a placeholder image here
+          // image.attributes['src'] = '/img/placeholder.png';
+        }
       }
 
       if (image.localName == 'img' && index > 0) {

@@ -16,12 +16,12 @@ output_images_subdirectory = 'imgs'
 
 # Where to get *.md files from. This is probably an absolute path
 # into your Obsidian vault or something similar.
-markdown_directory = '/Users/filiph/Google Drive/notes/memex/projects/filiphnet'
+markdown_directory = 'src/text/pages'
 
 # When markdown files reference images, where do we go find them?
 # This is probably an absolute path to the place where Obsidian stores
 # images.
-images_directory = '/Users/filiph/Google Drive/notes/memex/images'
+images_directory = 'assets'
 
 # The HTML file with the structure of the page, and special strings
 # that serve as placeholders.
