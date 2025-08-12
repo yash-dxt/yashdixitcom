@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>filiph.net/text</title>
+  <link href="https://filiph.net/text/"/>
+  <link type="application/atom+xml" rel="self" href="https://filiph.net/text/atom.xml"/>
+  <updated>2025-08-12T10:51:01.315483Z</updated>
+  <id>https://filiph.net/text/</id>
+  <author>
+    <name>Filip Hracek</name>
+    <email>filip.hracek@gmail.com</email>
+  </author>
+
+    <entry>
+    <id>https://filiph.net/text/hello-world.html</id>
+    <link type="text/html" rel="alternate" href="https://filiph.net/text/hello-world.html"/>
+    <title>hello-world</title>
+    <published>2025-01-15T08:00:00.000Z</published>
+    <updated>2025-01-15T08:00:00.000Z</updated>
+    <author>
+      <name>Filip Hracek</name>
+      <uri>https://filiph.net/</uri>
+    </author>
+    <content type="html">    &lt;p&gt;A simple hello world post&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://filiph.net/text/hello-world.html&quot;&gt;https://filiph.net/text/hello-world.html&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+    </content>
+  </entry>
+      
+
+</feed>
+  
