@@ -1,8 +1,13 @@
-# Yash Dixit
+# yash dixit 🥑
 
-Yo, this is Yash. Currently I'm building a D2C brand called 'The Minimal Closet' and 
-also travelling around India. Read about my latest trip from Delhi to Kanniyakumari. 
-I have travelled a lot in the past two years. 
+hey, this is yash and i like to do random stuff.
 
-This is inspired by Filiph Hrachek's website. You can [edit this page](https://github.com/filiph/filiphnet/edit/master/src/index.md)
-on Github.
+these days i'm travelling a lot, sorta writing a book about the awesome food we have in india & running a clothing brand.
+
+i would like to create some apps in the near future that people love to use.
+
+before this i used to be a software developer at mulitple startups. post that, i founded a clothing brand called above minimum (it did around 4000 orders, and over ₹50l in revenue) before i closed it down & started another brand.
+
+also, i waited for 5-6 years before i purchased this domain as it was unavailable and now it seems like my life is complete. i think it all comes down to if you own the .com domain of your full name. 
+
+this is inspired by [filiph hrachek's website](https://filiph.net/).
