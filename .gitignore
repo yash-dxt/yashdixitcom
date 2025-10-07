@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+
+# Files and directories created by pub
+.packages
+.pub/
+build/
+# Remove the following pattern if you wish to check in your lock file
+pubspec.lock
+
+# IDE and build files
+.idea/
+.dart_tool/
+
+# Directory created by dartdoc
+doc/api/
+
+# Packages files are not needed and there's a bunch of them.
+**/packages/**/*.dart
+
+# This file is auto-generated from src/index.template.html.
+web/index.html
+
+# Firebase
+.firebase/
+
+# Node modules / npx
+node_modules/

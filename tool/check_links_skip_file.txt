@@ -1,0 +1,11 @@
+# This one always fails to connect.
+https://philipage\.bandcamp\.com/
+
+# YouTube regularly fails with "sorry".
+https://www\.youtube\.com/
+
+# Twitter started returning HTTP400 on every request as of January 2021.
+https://twitter\.com/
+
+# Udemy returns HTTP 403 but the course is there.
+https://www\.udemy\.com/course/effortless-android-studio/
