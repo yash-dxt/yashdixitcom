@@ -42,3 +42,10 @@ there are three hacks i used here:
 - motivation ritual (reading a book)
 - two minute rule (can be done in 2 minutes)
 - implementation intention (mentioned time and place)
+
+day..0? 
+
+i did do some pushups, but most of it was watchign a tutorial. 
+it's really very tough. 
+
+day 1? 

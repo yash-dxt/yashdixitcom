@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-firebase deploy --token "$FIREBASE_TOKEN"
+# Firebase deployment removed
+echo "Firebase deployment script disabled"

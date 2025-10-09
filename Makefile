@@ -2,7 +2,7 @@ clean:
 	rm -rf ./build
 
 serve: build
-	npx superstatic .
+	cd build && npx superstatic .
 
 clean-serve:
 	@echo "Stopping any existing server..."
@@ -10,7 +10,7 @@ clean-serve:
 	@sleep 1
 
 deploy: clean build
-	firebase deploy
+	@echo "Deploy target removed - Firebase no longer configured"
 	@echo "Visit https://filiph.net"
 
 build: copy_web
