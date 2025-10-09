@@ -20,7 +20,7 @@ also, i waited for 5-6 years before i purchased this domain as it was unavailabl
 * [how many pushups can i do till mehmood ki shaadi?](yash-does-pushups.html)
 
 ## indie-hacking
-* [habit tracking app](habit-tracking-app.html)
+* [habit tracking app](indie-hacking/habit-tracking-app.html)
 
 about this website: 
 
