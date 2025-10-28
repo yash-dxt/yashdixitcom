@@ -12,8 +12,9 @@ also, i waited for 5-6 years before i purchased this domain as it was unavailabl
 
 ## trips
 
-* [delhi to kanniyakumari - aug 2025](delhi-kanniyakumari.html)
-* [vietnam - july 2025](vietnam-2025.html)
+* [delhi to kanniyakumari - aug 2025](trips/delhi-kanniyakumari.html)
+* [the food ratings of india](trips/food-ratings-of-india.html)
+* [vietnam - july 2025](trips/vietnam-2025.html)
 
 ## health
 

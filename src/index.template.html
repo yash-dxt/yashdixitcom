@@ -75,6 +75,42 @@
       font-family: "Helvetica Neue", Helvetica, sans-serif;
     }
 
+    /* Tables */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: auto;
+      margin: 1rem 0 1.5rem 0;
+      font-size: 1rem;
+    }
+
+    thead th {
+      font-family: "Helvetica Neue", Helvetica, sans-serif;
+      font-weight: 600;
+      text-align: left;
+      border-bottom: 2px solid #222;
+      padding: 0.6rem 0.75rem;
+    }
+
+    tbody td {
+      vertical-align: top;
+      padding: 0.55rem 0.75rem;
+      border-top: 1px solid #e5e5e5;
+    }
+
+    tbody tr:nth-child(even) td {
+      background: #fafafa;
+    }
+
+    @media (max-width: 640px) {
+
+      thead th,
+      tbody td {
+        padding: 0.5rem 0.6rem;
+        font-size: 1rem;
+      }
+    }
+
     /* GENERATED CSS */
   </style>
 </head>
