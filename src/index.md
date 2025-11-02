@@ -10,7 +10,7 @@ before this i used to be a software developer at mulitple startups. post that, i
 
 also, i waited for 5-6 years before i purchased this domain as it was unavailable and now it seems like my life is complete. i think it all comes down to if you own the .com domain of your full name. 
 
-## trips
+## food & places 
 
 * [delhi to kanniyakumari - aug 2025](trips/delhi-kanniyakumari.html)
 * [the food ratings of india](trips/food-ratings-of-india.html)
@@ -22,6 +22,9 @@ also, i waited for 5-6 years before i purchased this domain as it was unavailabl
 
 ## indie-hacking
 * [habit tracking app](indie-hacking/habit-tracking-app.html)
+
+## others 
+* [i read a fiction book](my-first-fiction-book.html)
 
 about this website: 
 
