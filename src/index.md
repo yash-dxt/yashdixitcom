@@ -12,7 +12,7 @@ also, i waited for 5-6 years before i purchased this domain as it was unavailabl
 
 ## food & places 
 
-* [delhi to kanniyakumari - aug 2025](trips/delhi-kanniyakumari.html)
+* [krishna chai wala, bundi ☕️](trips/krishna-chai-wala.html)
 * [the food ratings of india](trips/food-ratings-of-india.html)
 * [vietnam - july 2025](trips/vietnam-2025.html)
 
@@ -25,6 +25,7 @@ also, i waited for 5-6 years before i purchased this domain as it was unavailabl
 
 ## others 
 * [i read a fiction book](my-first-fiction-book.html)
+* [yash writes a food book](yash-writes-a-food-book.html)
 
 about this website: 
 
