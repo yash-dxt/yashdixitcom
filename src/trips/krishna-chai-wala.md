@@ -10,7 +10,7 @@ He’s an honest guy. He’s honest with his art - making chai, and with his dev
 
 Krishna tells me all he asks from Shiva is to keep him happy, keep him smiling. He doesn’t ask wealth or anything else. He tells me that ‘karam’ which translates to action is what we have to do and money will come. He further doesn’t need much money, only enough to buy him his rotis and sabji.
 
-![Krishna Chai](../../web/img/bundi.png)
+![Krishna Chai](../img/bundi.png)
 
 He recently went on a chaar dham yatra. He hated the chai there, so he didn’t have chai for multiple days until he came to a restaurant, where he said he’d like to make chai and will pay extra for the same. He made some chai there. He had carried his own masala there - which he gathers from multiple places in India.
 
@@ -19,3 +19,5 @@ He never sells. He just mentions if you’d like you can check this out. He made
 He made me check out his dinner - at the end of his menu. His wife cooks the dinner.
 
 He finds it too hot in summer days - so he rests at his house, and if somebody calls him - he comes and brews up a nice fresh cup of hot chai - nothing is premade.
+
+![Krishna Chai Wala Shop](../img/bundi2.jpeg)
