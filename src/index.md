@@ -2,26 +2,23 @@
 
 hey, this is yash and i like to do random stuff.
 
-these days i'm travelling a lot, sorta writing a book about the awesome food we have in india & running a clothing brand.
+i like to read, write, travel to eat, and do a lot of random things.   
 
 i would like to create some apps in the near future that people love to use.
 
-before this i used to be a software developer at mulitple startups. post that, i founded a clothing brand called above minimum (it did around 4000 orders, and over ₹50L in revenue) before i closed it down & started another brand.
+i would also like to write a book on the amazing indian food we have! :) 🥳
 
-also, i waited for 5-6 years before i purchased this domain as it was unavailable and now it seems like my life is complete. i think it all comes down to if you own the .com domain of your full name. 
+before this i used to be a software developer at mulitple startups. 
+post that, i founded a clothing brand called above minimum (it did around 4000 orders, and over ₹50L in revenue) before i closed it down & started another brand.
+
+and my name is yash dixit and i own yashdixit.com (my life's biggest achievement btw) 
 
 ## food & places 
 
-* [krishna chai wala, bundi ☕️](trips/krishna-chai-wala.html)
-* [the food ratings of india](trips/food-ratings-of-india.html)
-* [vietnam - july 2025](trips/vietnam-2025.html)
-
-## health
-
-* [how many pushups can i do till mehmood ki shaadi?](yash-does-pushups.html)
+* [krishna chai wala, bundi ☕️](https://yashdixit.com/trips/krishna-chai-wala.html)
 
 ## indie-hacking
-* [habit tracking app](indie-hacking/habit-tracking-app.html)
+* [english llama](https://www.englishllama.com/)
 
 ## others 
 * [i read a fiction book](my-first-fiction-book.html)
